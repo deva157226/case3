@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>table</title>
+    <body>
+        <table border="1">
+            <tr>
+                <th colspan="4">student table</th>
+                </tr>
+                <tr>
+                <th>Roll no</th>
+                <th>Name</th>
+                <th>Branch</th>
+                <th>fav food</th>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td>deva</td>
+                <td>aiml</td>
+                <td rowspan="2">biryani</td>
+            </tr>
+            <tr>
+                <td>62</td>
+                <td>siva</td>
+                <td>aiml</td>
+            </tr>
+            </table>
+        </body>
+        </html>
